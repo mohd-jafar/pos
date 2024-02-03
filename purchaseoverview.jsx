@@ -8,9 +8,7 @@ const NewUser = () => {
  <div className="maincontainer mt-2 ml-2 w-5/12 h-40 bg-white border border-grey rounded-lg  ">
   <br />
             <h1 className="ml-3 font-medium  text-lg">Purchase Overview</h1>
-
 <br />
-
 <div className="item flex justify-around gap-6">
 
 {/* 1 */}
@@ -63,18 +61,8 @@ const NewUser = () => {
                 <p className= "text-gray-500">Return</p>
             </div>
         </div>
-
-
-
-
         </div>
-
-
-
         </div>
-
-
-
 
     </>
   )
